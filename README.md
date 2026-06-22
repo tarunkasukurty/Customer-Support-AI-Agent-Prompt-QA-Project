@@ -1,4 +1,4 @@
-# Customer Support AI Agent Prompt QA Project
+customer-support-ai-agent-prompt-qa
 
 ## Project Overview
 
